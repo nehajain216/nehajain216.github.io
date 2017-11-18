@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Neha Tech Blog</title>
+    <link>https://nehajain216.github.io/tags/</link>
+    <description>Recent content in Tags on Neha Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Nov 2017 14:05:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://nehajain216.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://nehajain216.github.io/tags/blog/</link>
+      <pubDate>Sat, 18 Nov 2017 14:05:00 +0530</pubDate>
+      
+      <guid>https://nehajain216.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://nehajain216.github.io/tags/java/</link>
+      <pubDate>Sat, 18 Nov 2017 15:05:00 +0530</pubDate>
+      
+      <guid>https://nehajain216.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

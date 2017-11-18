@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Neha Tech Blog</title>
+    <link>https://nehajain216.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Neha Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Nov 2017 14:05:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://nehajain216.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My blogging journey started</title>
+      <link>https://nehajain216.github.io/post/welcome-to-my-blog/</link>
+      <pubDate>Sat, 18 Nov 2017 14:05:00 +0530</pubDate>
+      
+      <guid>https://nehajain216.github.io/post/welcome-to-my-blog/</guid>
+      <description>After working several years in clinical domain using proprietary tools, I am moving to Java development. I think it is a good time to start a blog and write what I learned here.
+public class HelloWorld{public static void main(String[] args){System.out.println(&amp;#34;Welcome&amp;#34;);}} </description>
+    </item>
+    
+  </channel>
+</rss>
