@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nehajain216.github.io/post/jdbc-tutorial/</loc>
+    <lastmod>2017-11-29T07:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nehajain216.github.io/post/reading-files-in-java/</loc>
     <lastmod>2017-11-18T15:05:00+05:30</lastmod>
   </url>
@@ -37,25 +42,25 @@
   
   <url>
     <loc>https://nehajain216.github.io/tags/java/</loc>
-    <lastmod>2017-11-18T15:05:00+05:30</lastmod>
+    <lastmod>2017-11-29T07:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nehajain216.github.io/categories/java/</loc>
-    <lastmod>2017-11-18T15:05:00+05:30</lastmod>
+    <lastmod>2017-11-29T07:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nehajain216.github.io/</loc>
-    <lastmod>2017-11-18T15:05:00+05:30</lastmod>
+    <lastmod>2017-11-29T07:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nehajain216.github.io/post/</loc>
-    <lastmod>2017-11-18T15:05:00+05:30</lastmod>
+    <lastmod>2017-11-29T07:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   

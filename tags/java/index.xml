@@ -6,10 +6,22 @@
     <description>Recent content in Java on Neha Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2017 15:05:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 07:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://nehajain216.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JDBC Tutorial</title>
+      <link>https://nehajain216.github.io/post/jdbc-tutorial/</link>
+      <pubDate>Wed, 29 Nov 2017 07:00:00 +0530</pubDate>
+      
+      <guid>https://nehajain216.github.io/post/jdbc-tutorial/</guid>
+      <description>What is JDBC? JDBC (Java DataBase Connectivity) is an API which defines how to connect and access a database from Java application.
+Steps to connect Java application with database Register the driver Class.forName() can be used to explicitly load and register the driver class. From jdbc 4.0 onwards we don&amp;rsquo;t need to load the driver explicitly.
+Class.forName(&amp;quot;com.mysql.jdbc.Driver&amp;quot;);
+Create a connection getConnection() of DriverManager class is used to create connection.</description>
+    </item>
     
     <item>
       <title>Multiple ways of reading a File in Java</title>
